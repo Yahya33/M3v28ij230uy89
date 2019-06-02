@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTg0ODQ4OTEzMDE4NzgxNzQ2.XPQ5Tw.I1tHJG_Zua11wXaUhXhvKcPv5vo
+owner=  382593940165099530
+prefix= M
+game= Mplay
 stayinchannel=true
 songinstatus=true
